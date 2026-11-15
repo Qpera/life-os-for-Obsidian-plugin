@@ -1,0 +1,9 @@
+{
+  "id": "life-os",
+  "name": "Life OS",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Единый дашборд для управления жизнью: задачи, привычки, финансы, сон, XP, люди, идеи, аниме и фильмы. Надстройка над Tasks, Calendar, Templater, ICS и др.",
+  "author": "Life OS",
+  "isDesktopOnly": false
+}

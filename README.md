@@ -1,0 +1,1 @@
+# life-os-for-Obsidian-plagin

@@ -30,7 +30,7 @@
 
 ### Вариант 1: через BRAT (проще всего, с автообновлением)
 1. Установи плагин **BRAT** из каталога сторонних плагинов Obsidian.
-2. Команда `BRAT: Add a beta plugin for testing` и вставь адрес репозитория: `https://github.com/Qpera/life-os-for-Obsidian-plagin`.
+2. Команда `BRAT: Add a beta plugin for testing` и вставь адрес репозитория: `https://github.com/Qpera/life-os-for-Obsidian-plugin/settings`.
 3. Включи **Life OS** в настройках сторонних плагинов.
 
 ### Вариант 2: вручную
